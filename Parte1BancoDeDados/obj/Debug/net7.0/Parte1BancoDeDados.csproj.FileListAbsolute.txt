@@ -1,0 +1,80 @@
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\appsettings.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.exe
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.deps.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.runtimeconfig.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.Parte1BancoDeDados.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.build.Parte1BancoDeDados.props
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Parte1BancoDeDados.props
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Parte1BancoDeDados.props
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\scopedcss\bundle\Parte1BancoDeDados.styles.css
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.CopyComplete
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\refint\Parte1BancoDeDados.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados\obj\Debug\net7.0\ref\Parte1BancoDeDados.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Npgsql.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.infra.connection.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.infra.connection.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\appsettings.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Npgsql.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.infra.connection.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\bin\Debug\net7.0\Parte1BancoDeDados.infra.connection.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.Parte1BancoDeDados.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.build.Parte1BancoDeDados.props
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Parte1BancoDeDados.props
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Parte1BancoDeDados.props
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\scopedcss\bundle\Parte1BancoDeDados.styles.css
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\refint\Parte1BancoDeDados.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\Parte1BancoDeDados.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados\obj\Debug\net7.0\ref\Parte1BancoDeDados.dll

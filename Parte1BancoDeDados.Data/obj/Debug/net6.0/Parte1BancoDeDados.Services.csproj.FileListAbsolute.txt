@@ -1,0 +1,34 @@
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.deps.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.CopyComplete
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\refint\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\ref\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\refint\Parte1BancoDeDados.Services.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Services.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.Data\obj\Debug\net6.0\ref\Parte1BancoDeDados.Services.dll

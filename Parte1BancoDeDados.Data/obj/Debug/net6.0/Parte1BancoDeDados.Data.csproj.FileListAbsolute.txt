@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Data.deps.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Data.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.Data.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\bin\Debug\net6.0\Parte1BancoDeDados.infra.connection.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.csproj.CopyComplete
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\refint\Parte1BancoDeDados.Data.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\Parte1BancoDeDados.Data.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.Data\obj\Debug\net6.0\ref\Parte1BancoDeDados.Data.dll

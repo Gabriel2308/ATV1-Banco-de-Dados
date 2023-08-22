@@ -1,0 +1,24 @@
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.deps.json
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\refint\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\source\repos\Parte1BancoDeDados.DTO\obj\Debug\net6.0\ref\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\bin\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\refint\Parte1BancoDeDados.DTO.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\Parte1BancoDeDados.DTO.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Repos\repositorios pessoais\Parte 1 banco\Parte1BancoDeDados.DTO\obj\Debug\net6.0\ref\Parte1BancoDeDados.DTO.dll
